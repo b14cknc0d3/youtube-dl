@@ -1,0 +1,6 @@
+package com.lambda.youtubedl.youtube_dl
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
